@@ -7,5 +7,5 @@ The repository consists of working code for the Object Detection using YOLO.
 
 Study Papers can be found at the below location:
 
-1. [Yolo paper]("./Study_Papers/Yolo_Paper.pdf") [Yolo Paper](Study_Papers/Yolo_Paper.pdf)
-2. [Image-Adaptive Yolo Paper](Study_Papers/Image-Adaptive YOLO for Object Detection in Adverse Weather Conditions.pdf")
+1. [Yolo Paper](Study_Papers/Yolo_Paper.pdf)
+2. [Image-Adaptive Yolo Paper](Study_Papers/Image_Adaptive_YOLO_for_Object_Detection_in_Adverse_Weather_Conditions.pdf")
